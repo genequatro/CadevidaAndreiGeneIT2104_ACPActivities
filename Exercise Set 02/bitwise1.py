@@ -21,4 +21,4 @@ print(and_output2)
 x = 13 #E
 y = 7
 or_output2 = x | y
-print(and_output2)
+print(or_output2)
