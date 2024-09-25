@@ -3,5 +3,5 @@ n = str(n)
 if n[0] == n[2]:
   print("Palindrome")
 else:
-  print("Not a palindrome")
+  print("Not a Palindrome")
 
