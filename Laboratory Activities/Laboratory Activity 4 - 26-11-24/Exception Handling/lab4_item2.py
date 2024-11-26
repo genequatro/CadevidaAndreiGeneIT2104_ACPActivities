@@ -8,7 +8,7 @@ try:
   for i in range(size):
     arr[i] = float(input())
 
-  x = int(input("Enter the index of the element: "))
+  x = int(input("Enter the index of the element to print: "))
 
   print(f"Element at index {x}: {arr[x]:.2f}")
 
