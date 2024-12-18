@@ -44,8 +44,8 @@ Item 1: Roman to Integer
 - Description: Converts a Roman numeral to its integer equivalent using a - dictionary.
 - Purpose: Demonstrates the use of dictionaries and conditional logic.
 - Instructions:
-   1.The user enters a Roman numeral (in lowercase or uppercase).
-   2.The program processes the numeral to calculate its integer value.
+   1. The user enters a Roman numeral (in lowercase or uppercase).
+   2. The program processes the numeral to calculate its integer value.
   
 Item 2: Perfect Numbers
 - Description: Checks if a number is a perfect number.
@@ -64,7 +64,7 @@ Item 1: Capybara Class
    
 Item 2: Exception Handling
 - Description: Handles errors when retrieving array elements.
-- Purpose: Demonstrates array handling, input validation, and exception - - handling.
+- Purpose: Demonstrates array handling, input validation, and exception  handling.
 - Instructions:
    1. The user inputs the size of an array and its elements.
    2. The user specifies an index, and the program prints the element at that index.
