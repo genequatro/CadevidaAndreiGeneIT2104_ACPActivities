@@ -6,6 +6,8 @@ This readme provides a purpose and an overview and a few instructions that can b
 
 Activities that are shown consists of python conpcepts to enhance and elevate the rate of growth for programming.
 
+#
+
 #Laboratory Activity 1: Introduction to Python
 Item 1: Song Details
 - Description: A script to collect and display song details provided by the user.
