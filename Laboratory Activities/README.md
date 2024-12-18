@@ -19,7 +19,7 @@ Item 2: Character and ASCII Values
 - Purpose: Demonstrates string comparison, conditional logic, and the use of ASCII values.
 - Instructions:
    1. The user inputs two space-separated characters.
-   2.The program determines the character with the greater value and prints their ASCII values.
+   2. The program determines the character with the greater value and prints their ASCII values.
 
 # Laboratory Activity 2: Libraries and Control Flow
 Item 1: Integer Palindrome Checker
