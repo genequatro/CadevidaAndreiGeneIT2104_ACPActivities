@@ -10,15 +10,15 @@ Activities that are shown consists of python conpcepts to enhance and elevate th
 
 #Laboratory Activity 1: Introduction to Python
 Item 1: Song Details
-- Description: A script to collect and display song details provided by the user.
-- Purpose: Demonstrates basic input handling and formatted output.
+- Description: A script to collect and display song details that are provided by the users
+- Purpose: To demonstrates basic input handling and formatted output.
 - Instructions:
-   1. The user inputs the year, genre, album, song title, and artist.
-   2. The program displays the song details based on the input.
+   1. The user is prompted to input the year, genre, album, song title, and artist.
+   2. The program then displays the song details based on the input.
    
 Item 2: Character and ASCII Values
 - Description: Compares two characters and displays the greater value along with their ASCII values.
-- Purpose: Demonstrates string comparison, conditional logic, and the use of ASCII values.
+- Purpose: To demonstrates string comparison, conditional logic, and the use of ASCII values.
 - Instructions:
    1. The user inputs two space-separated characters.
    2. The program determines the character with the greater value and prints their ASCII values.
@@ -68,4 +68,4 @@ Item 2: Exception Handling
 - Instructions:
    1. The user inputs the size of an array and its elements.
    2. The user specifies an index, and the program prints the element at that index.
-Errors like IndexError are handled gracefully.
+   3. Errors like IndexError are handled gracefully.
